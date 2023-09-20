@@ -1,6 +1,5 @@
 ---
-layout: index_layout
-title: "Home"
+title: "Layout: Header Image (External URL)"
 header:
   image: https://live.staticflickr.com/8084/8396909762_813a2b1829_h.jpg
 categories:
@@ -12,8 +11,8 @@ tags:
   - image
   - layout
 
-
 ---
 
-<p>Perform calculations right on top of your browser window without
-  switching between tabs or apps or leaving your current page.</p>
+This post should display a **header image**, if the theme supports it.
+
+Featured image is an external asset and should load.
